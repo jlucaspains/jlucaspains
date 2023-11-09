@@ -16,4 +16,6 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          date_format: "mmm d, yyyy"
+          template: "1. $date - [$title](https://blog.lpains.net$url)$newline"
           feed_list: "https://blog.lpains.net/posts/index.xml"
