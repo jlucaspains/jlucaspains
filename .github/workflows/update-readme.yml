@@ -17,5 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           date_format: "mmm d, yyyy"
-          template: "1. $date - [$title](https://blog.lpains.net$url)$newline"
+          template: "$newline1. $date - [$title](https://blog.lpains.net$url)"
           feed_list: "https://blog.lpains.net/posts/index.xml"
