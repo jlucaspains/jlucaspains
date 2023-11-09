@@ -20,4 +20,9 @@ What else do I do? I go home and code some more. However, I got some completely 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Expert level code reviews](/posts/2023-10-25-expert-level-code-reviews/)
+- [A little side project - Sharp cert manager](/posts/2023-09-27-sharp-cert-manager/)
+- [Self destructing data with Cosmos DB](/posts/2023-08-25-self-destructing-data-with-cosmosdb/)
+- [Introducing sharp-recipe-parser](/posts/2023-08-05-introducing-sharp-recipe-parser/)
+- [Azure Pipeline service principal detail without AD Access](/posts/2023-07-21-service-principal-detail/)
 <!-- BLOG-POST-LIST:END -->
