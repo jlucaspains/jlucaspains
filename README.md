@@ -20,8 +20,8 @@ What else do I do? I go home and code some more. However, I got some completely 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+1. Nov 28, 2023 - [Renewing an Azure Key Vault certificate with same key](https://blog.lpains.net/posts/2023-11-28-renew-key-vault-cert/)
 1. Oct 25, 2023 - [Expert level code reviews](https://blog.lpains.net/posts/2023-10-25-expert-level-code-reviews/)
 1. Sep 27, 2023 - [A little side project - Sharp cert manager](https://blog.lpains.net/posts/2023-09-27-sharp-cert-manager/)
 1. Aug 25, 2023 - [Self destructing data with Cosmos DB](https://blog.lpains.net/posts/2023-08-25-self-destructing-data-with-cosmosdb/)
-1. Aug 5, 2023 - [Introducing sharp-recipe-parser](https://blog.lpains.net/posts/2023-08-05-introducing-sharp-recipe-parser/)
-1. Jul 25, 2023 - [Azure Pipeline service principal detail without AD Access](https://blog.lpains.net/posts/2023-07-21-service-principal-detail/)<!-- BLOG-POST-LIST:END -->
+1. Aug 5, 2023 - [Introducing sharp-recipe-parser](https://blog.lpains.net/posts/2023-08-05-introducing-sharp-recipe-parser/)<!-- BLOG-POST-LIST:END -->
