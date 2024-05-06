@@ -20,8 +20,8 @@ What else do I do? I go home and code some more. However, I got some completely 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+1. May 5, 2024 - [Introducing documorph](https://blog.lpains.net/posts/2024-05-05-introducing-documorph/)
 1. Apr 7, 2024 - [Streamlining App Role Setup with Azure Entra: A Step-by-Step Guide](https://blog.lpains.net/posts/2024-04-07-adding-roles-to-azure-entra-app-regs/)
 1. Mar 26, 2024 - [Sharp Cooking now displays nutrition labels](https://blog.lpains.net/posts/2024-03-26-sharp-cooking-nutrition-label/)
 1. Jan 27, 2024 - [How to benchmark javascript coding options](https://blog.lpains.net/posts/2024-01-27-how-to-benchmark-javascript/)
-1. Jan 1, 2024 - [Converting sharp-recipe-parser from typescript to javascript + jsdoc](https://blog.lpains.net/posts/2024-01-01-sharp-recipe-parser-jsdoc/)
-1. Dec 10, 2023 - [Introducing azdiff: Simplifying Azure Environment Comparison](https://blog.lpains.net/posts/2023-12-10-introducing-azdiff/)<!-- BLOG-POST-LIST:END -->
+1. Jan 1, 2024 - [Converting sharp-recipe-parser from typescript to javascript + jsdoc](https://blog.lpains.net/posts/2024-01-01-sharp-recipe-parser-jsdoc/)<!-- BLOG-POST-LIST:END -->
