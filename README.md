@@ -20,8 +20,8 @@ What else do I do? I go home and code some more. However, I got some completely 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+1. Sep 10, 2024 - [Sharp Cooking - How to upgrade Python Azure Functions from v1 to v2](https://blog.lpains.net/posts/2024-09-10-upgrading-az-func-to-v2/)
 1. Jul 5, 2024 - [GO REST Template Major Changes](https://blog.lpains.net/posts/2024-07-05-go-rest-template-major-changes/)
 1. May 31, 2024 - [Sharp Cooking v1.11.0 released!](https://blog.lpains.net/posts/2024-05-31-sharp-cooking-v1.11-released/)
 1. May 27, 2024 - [Running Agile projects in GitHub Projects - 2024 review](https://blog.lpains.net/posts/2024-05-27-2024-review-github-sprint-projects/)
-1. May 5, 2024 - [Introducing documorph](https://blog.lpains.net/posts/2024-05-05-introducing-documorph/)
-1. Apr 7, 2024 - [Streamlining App Role Setup with Azure Entra: A Step-by-Step Guide](https://blog.lpains.net/posts/2024-04-07-adding-roles-to-azure-entra-app-regs/)<!-- BLOG-POST-LIST:END -->
+1. May 5, 2024 - [Introducing documorph](https://blog.lpains.net/posts/2024-05-05-introducing-documorph/)<!-- BLOG-POST-LIST:END -->
