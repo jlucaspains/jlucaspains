@@ -20,8 +20,8 @@ What else do I do? I go home and code some more. However, I got some completely 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+1. Jun 18, 2025 - [It&#39;s time to move from Azure DevOps to GitHub](https://blog.lpains.net/posts/2025-06-18-time-to-move-to-github/)
 1. Jun 7, 2025 - [10 Lessons Learned Using Azure Container Apps](https://blog.lpains.net/posts/2025-06-07-lessons-learned-azure-cae/)
 1. Apr 7, 2025 - [Why I removed Svelte from Sharp Cert Manager](https://blog.lpains.net/posts/2025-04-07-sharp-cert-manager-new-frontend/)
 1. Mar 20, 2025 - [Sharp Cooking - AI Preview updates](https://blog.lpains.net/posts/2025-03-20-sharp-cooking-ai-preview-updates/)
-1. Feb 8, 2025 - [Sharp Cooking - chrome extension](https://blog.lpains.net/posts/2025-02-08-sharp-cooking-chrome-extension/)
-1. Feb 6, 2025 - [Sharp Cooking - recipe scraping improvements](https://blog.lpains.net/posts/2025-02-06-sharp-cooking-share-improvements/)<!-- BLOG-POST-LIST:END -->
+1. Feb 8, 2025 - [Sharp Cooking - chrome extension](https://blog.lpains.net/posts/2025-02-08-sharp-cooking-chrome-extension/)<!-- BLOG-POST-LIST:END -->
