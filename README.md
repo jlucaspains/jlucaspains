@@ -20,8 +20,8 @@ What else do I do? I go home and code some more. However, I got some completely 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+1. Oct 19, 2025 - [Importing Azure DevOps work items to GitHub using a GitHub App](https://blog.lpains.net/posts/2025-10-19-import-ado-wi-using-github-app/)
 1. Sep 1, 2025 - [Setting Up GitHub for Secure and Efficient Development](https://blog.lpains.net/posts/2025-09-01-setup-github-security-efficiency/)
 1. Aug 3, 2025 - [Guide to moving to GitHub from Azure DevOps](https://blog.lpains.net/posts/2025-08-03-guide-move-to-github/)
 1. Jun 18, 2025 - [It&#39;s time to move from Azure DevOps to GitHub](https://blog.lpains.net/posts/2025-06-18-time-to-move-to-github/)
-1. Jun 7, 2025 - [10 Lessons Learned Using Azure Container Apps](https://blog.lpains.net/posts/2025-06-07-lessons-learned-azure-cae/)
-1. Apr 7, 2025 - [Why I removed Svelte from Sharp Cert Manager](https://blog.lpains.net/posts/2025-04-07-sharp-cert-manager-new-frontend/)<!-- BLOG-POST-LIST:END -->
+1. Jun 7, 2025 - [10 Lessons Learned Using Azure Container Apps](https://blog.lpains.net/posts/2025-06-07-lessons-learned-azure-cae/)<!-- BLOG-POST-LIST:END -->
