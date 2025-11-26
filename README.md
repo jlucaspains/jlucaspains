@@ -20,8 +20,8 @@ What else do I do? I go home and code some more. However, I got some completely 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+1. Nov 24, 2025 - [GitHub Copilot CLI: Boost Developer Productivity in the Terminal](https://blog.lpains.net/posts/2025-11-24-github-copilot-cli/)
 1. Nov 2, 2025 - [Guide to Azure Container Registry Vulnerability Assessment](https://blog.lpains.net/posts/2025-11-02-review-acr-image-vulnerabilities/)
 1. Oct 19, 2025 - [Importing Azure DevOps work items to GitHub using a GitHub App](https://blog.lpains.net/posts/2025-10-19-import-ado-wi-using-github-app/)
 1. Sep 1, 2025 - [Setting Up GitHub for Secure and Efficient Development](https://blog.lpains.net/posts/2025-09-01-setup-github-security-efficiency/)
-1. Aug 3, 2025 - [Guide to moving to GitHub from Azure DevOps](https://blog.lpains.net/posts/2025-08-03-guide-move-to-github/)
-1. Jun 18, 2025 - [It&#39;s time to move from Azure DevOps to GitHub](https://blog.lpains.net/posts/2025-06-18-time-to-move-to-github/)<!-- BLOG-POST-LIST:END -->
+1. Aug 3, 2025 - [Guide to moving to GitHub from Azure DevOps](https://blog.lpains.net/posts/2025-08-03-guide-move-to-github/)<!-- BLOG-POST-LIST:END -->
