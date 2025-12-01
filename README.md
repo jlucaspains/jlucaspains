@@ -12,11 +12,9 @@ What else do I do? I go home and code some more. However, I got some completely 
   * Volleyball player. I really wanted to play professional, but apparently you need to be really good and ridiculous tall for that...
 
 ### Some GitHub stats:
-<div>
- <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=jlucaspains&show_icons=true&theme=dark&count_private=true&rank_icon=github" alt="jlucaspains' GitHub Stats" />
- <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucaspains&theme=dark&layout=compact" 
-   alt="jlucaspains' GitHub Top Languages" />
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jlucaspains&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jlucaspains&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jlucaspains&theme=github)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
