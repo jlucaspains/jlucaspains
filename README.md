@@ -18,8 +18,8 @@ What else do I do? I go home and code some more. However, I got some completely 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+1. Apr 12, 2026 - [Releasing Sharp Cred Manager v2](https://blog.lpains.net/posts/2026-04-12-sharp-cred-manager-v2/)
 1. Mar 23, 2026 - [Mastering AI-Assisted Development](https://blog.lpains.net/posts/2026-03-23-ai-dev-guide/)
 1. Jan 31, 2026 - [Real World Example: Building a Production Feature with Ralph Wiggum Loop](https://blog.lpains.net/posts/2026-01-31-real-world-example-ralph/)
 1. Dec 7, 2025 - [Deep Dive into SpecKit: A Comprehensive Guide to Spec-Driven Development](https://blog.lpains.net/posts/2025-12-07-deep-dive-into-speckit/)
-1. Nov 24, 2025 - [GitHub Copilot CLI: Boost Developer Productivity in the Terminal](https://blog.lpains.net/posts/2025-11-24-github-copilot-cli/)
-1. Nov 2, 2025 - [Guide to Azure Container Registry Vulnerability Assessment](https://blog.lpains.net/posts/2025-11-02-review-acr-image-vulnerabilities/)<!-- BLOG-POST-LIST:END -->
+1. Nov 24, 2025 - [GitHub Copilot CLI: Boost Developer Productivity in the Terminal](https://blog.lpains.net/posts/2025-11-24-github-copilot-cli/)<!-- BLOG-POST-LIST:END -->
