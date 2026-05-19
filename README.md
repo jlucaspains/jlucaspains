@@ -18,8 +18,8 @@ What else do I do? I go home and code some more. However, I got some completely 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+1. May 17, 2026 - [Using WSL2 for Developer Environment VMs](https://blog.lpains.net/posts/2026-05-17-dev-environment-wsl2/)
 1. Apr 28, 2026 - [How to build cross-AI assistant plugins for Claude, Copilot, Codex, and Gemini](https://blog.lpains.net/posts/2026-04-28-cross-ai-plugins/)
 1. Apr 19, 2026 - [Releasing Sharp Cred Manager v2-beta 6](https://blog.lpains.net/posts/2026-04-12-sharp-cred-manager-v2-beta6/)
 1. Apr 12, 2026 - [Releasing Sharp Cred Manager v2](https://blog.lpains.net/posts/2026-04-12-sharp-cred-manager-v2/)
-1. Mar 23, 2026 - [Mastering AI-Assisted Development](https://blog.lpains.net/posts/2026-03-23-ai-dev-guide/)
-1. Jan 31, 2026 - [Real World Example: Building a Production Feature with Ralph Wiggum Loop](https://blog.lpains.net/posts/2026-01-31-real-world-example-ralph/)<!-- BLOG-POST-LIST:END -->
+1. Mar 23, 2026 - [Mastering AI-Assisted Development](https://blog.lpains.net/posts/2026-03-23-ai-dev-guide/)<!-- BLOG-POST-LIST:END -->
